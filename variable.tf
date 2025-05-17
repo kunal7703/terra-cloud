@@ -1,2 +1,2 @@
 variable "access_key" {}
-variable "secrect_key" {}
+variable "secret_key" {}
